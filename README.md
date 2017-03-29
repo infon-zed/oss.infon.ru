@@ -2,8 +2,8 @@
 
 ## mogno queue java
 Using mongodb as storage for queue system
-https://github.com/infon-zed/mongo-queue-java
+[https://github.com/infon-zed/mongo-queue-java]
 
 ## jcache JSR107 implementation for CRUD storages
 with default implementation of using MongoDB as storage for cache
-https://github.com/infon-zed/jcache-crud
+[https://github.com/infon-zed/jcache-crud]
