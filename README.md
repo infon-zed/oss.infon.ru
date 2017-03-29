@@ -8,4 +8,4 @@ Using mongodb as storage for queue system
 ## jcache JSR107 implementation for CRUD storages
 with default implementation of using MongoDB as storage for cache
 
-[jcache-srud repository](https://github.com/infon-zed/jcache-crud)
+[jcache-crud repository](https://github.com/infon-zed/jcache-crud)
