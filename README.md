@@ -4,6 +4,7 @@
 Using mongodb as storage for async queue system
 
 [QueueBox repository](https://github.com/infon-zed/mongo-queue-java)
+
 [ ![Download](https://api.bintray.com/packages/infon-zed-oss/infon-zed-oss/QueueBox/images/download.svg) ](https://bintray.com/infon-zed-oss/infon-zed-oss/QueueBox/_latestVersion)
 
 ## jcache JSR107 implementation for CRUD storages
